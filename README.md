@@ -91,6 +91,6 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
   ![Foto](Foto/foto22.png)
 OUTPUT
 
-![Foto](Foto/foto21.png)
+![Foto](Foto/2.png)
 
 ![Foto](Foto/1.png)
