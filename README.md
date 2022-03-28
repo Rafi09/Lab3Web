@@ -85,3 +85,5 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
 ## Jawab
 1.HTML
+![Foto](Foto/foto20.png)
+  CSS
