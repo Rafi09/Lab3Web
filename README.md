@@ -87,6 +87,8 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 1.HTML
 ![Foto](Foto/foto20.png)
   CSS
-  
+
   ![Foto](Foto/foto22.png)
 OUTPUT
+
+![Foto](Foto/foto21.png)
